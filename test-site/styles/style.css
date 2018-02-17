@@ -1,0 +1,38 @@
+html {
+    font-size: 10px;
+    font-family: 'Cuprum', sans-serif;
+    background-color: #a0ccf5;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ddeefc;
+    padding: 0 20px 20px 20px;
+    border: 5px dashed black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #a0ccf5;
+    text-shadow: -3px -3px 4px black;
+}
+
+p, li, em {
+    font-size: 16px;
+    /*line-height: 2;*/
+    letter-spacing: 1px;
+}
+
+a:hover {
+    font-size: 24px;
+    color: royalblue;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
